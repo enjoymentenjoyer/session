@@ -8,7 +8,7 @@ Code demonstrates session access, creation and removal.
 package main
 
 import (
-	"github.com/icza/session"
+	"github.com/enjoymentenjoyer/session"
 	"html/template"
 	"log"
 	"net/http"
